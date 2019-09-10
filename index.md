@@ -1,4 +1,4 @@
-# Funtional Genomics Tools and Fundamentals
+# Funtional Genomic Tools and Fundamentals
 [Zhanglab @ Columbia](https://hanruizhang.github.io/zhanglab/) by Jianting Shi [2019-09-07]
 
 ## Genome Resources
