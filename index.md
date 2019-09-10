@@ -1,25 +1,5 @@
----
-title: "Funtional Genomics Tools and Fundamentals"
-author: Jianting Shi
-date: September 07, 2019
-knit: (function(input_file, encoding) {
-  out_dir <- '';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-output: 
-  html_document:
-    toc: true
-    toc_float:
-      toc_collapsed: true
-    toc_depth: 3
-    number_sections: false
-    theme: cosmo
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Funtional Genomics Tools and Fundamentals
+[Zhanglab @ Columbia](https://hanruizhang.github.io/zhanglab/) by Jianting Shi [2019-09-07]
 
 ## Genome Resources
 -
