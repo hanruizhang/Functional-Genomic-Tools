@@ -174,3 +174,5 @@ Outline: Experimental Design - QC - Read alignment - Quantify isoform and gene e
 - Galaxy (fastqsanger - bowtie - SAMtoBAM convertor - cufflinks - cuffdiff
 - R environment
 - Gene Set Enrichment Analysis and Pathway Analysis
+
+**Materials here are licensed as [CC BY-NC-SA 4.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
