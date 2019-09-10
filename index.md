@@ -2,7 +2,7 @@
 [Zhanglab @ Columbia](https://hanruizhang.github.io/zhanglab/) by Jianting Shi [2019-09-07]
 
 ## Genome Resources
--
+
 ### 1. Sequence, Gene & Protein Resources
 
 - Public Resources
@@ -75,7 +75,7 @@
 	      
 	      
 ## DNA Sequence Analysis
--
+
 
 ### 1. [Galaxy](https://usegalaxy.org/) (SNP calling)
 - General workflow:  
@@ -146,7 +146,7 @@
 Turn on ENCODE tracks/super tracks/track hub
 
 ## RNA Sequence Analysis
--
+
 Outline: Experimental Design - QC - Read alignment - Quantify isoform and gene expression
 
 - Experimental Design  
@@ -173,4 +173,4 @@ Outline: Experimental Design - QC - Read alignment - Quantify isoform and gene e
 	Aligned reads to gene abundance:
 - Galaxy (fastqsanger - bowtie - SAMtoBAM convertor - cufflinks - cuffdiff
 - R environment
-- Gene Set enrichment and pathway
+- Gene Set Enrichment Analysis and Pathway Analysis
